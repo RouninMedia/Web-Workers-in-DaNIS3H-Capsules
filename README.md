@@ -1,6 +1,3 @@
-# Web-Workers-in-Da3sh-Modules
-Ashiva Front End script enabling Web Workers in Da3sh Modules
-
 # Da3SH Module Web Workers
 
 Enabling _Web Workers_ in **Da3SH Modules** requires a global level object:
