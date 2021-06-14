@@ -1,6 +1,6 @@
-# DaNIS3H Module Web Workers
+# DaNIS³H Module Web Workers
 
-Enabling _Web Workers_ in **DaNIS3H Modules** requires a global level object:
+Enabling _Web Workers_ in **DaNIS³H Modules** requires a global level object:
 
  - `ashivaModuleWorkers = {}`
 
@@ -12,9 +12,9 @@ and two functions:
 **See below:**
 
 ```
-  //*************************************//
- // DaNIS3H MODULES :: ENABLE WEB WORKERS //
-//*************************************//
+  //***************************************//
+ // DaNIS³H MODULES :: ENABLE WEB WORKERS //
+//***************************************//
 
 let ashivaModuleWorkers = {};
 
